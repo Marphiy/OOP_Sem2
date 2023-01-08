@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf8"?>
+<data>
+	<student>
+		<name>Дмитриева Оксана</name>
+		<grade>3.7</grade>
+	</student>
+	<student>
+		<name>Децибелов Аргентин</name>
+		<grade>5.0</grade>
+	</student>
+	<student>
+		<name>Иванов Антон</name>
+		<grade>4.2</grade>
+	</student>
+</data>
